@@ -1,0 +1,7 @@
+*.csv
+*.tsv
+*.xls
+*.xlsx
+
+.editorconfig
+.vscode

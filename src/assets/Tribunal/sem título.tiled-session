@@ -1,0 +1,205 @@
+{
+    "activeFile": "C:/Users/Inteli/Joog/assets/EscritorioMeta/pasta_escritorio/escritorio_update.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1.5
+        },
+        "C:/Users/Inteli/Documents/GameMeta/Escritório/escritorio_meta.tmx": {
+            "scale": 1.1175223214285714,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 862.1751722760412,
+                "y": 253.6862079296914
+            }
+        },
+        "C:/Users/Inteli/Documents/GameMeta/Escritório/tudo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Inteli/Documents/GameMeta/RuaReal.tmx": {
+            "scale": 0.22350446428571427,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2234.854688904424,
+                "y": 270.6881054628982
+            }
+        },
+        "C:/Users/Inteli/Documents/GameMeta/Tileset_10_MV.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GameMeta/Tileset_3_MV.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GameMeta/Treinamento/tudo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Inteli/Documents/GameMeta/ground_street.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GameMeta/mapa_treinamento.tmx": {
+            "scale": 1.1175223214285714,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 448.76061120543295,
+                "y": 288.5848397083791
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/AlienProject - Copia/assets/pasta_mapas/mapaPrincipal.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 230,
+                "y": 1162
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/AlienProject - Copia/assets/pasta_mapas/mapaPrincipal.tmx#Modern_Exteriors_Complete_Tileset_32x32": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/AlienProject - Copia/assets/pasta_mapas/mapaPrincipal.tmx#placa-bancopixel": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/AlienProject - Copia/assets/pasta_mapas/mapaPrincipal.tmx#símbolo-metapixel": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/AlienProject - Copia/mapa_escritorio/escritorio.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 367.5,
+                "y": 256.5
+            }
+        },
+        "C:/Users/Inteli/Documents/GitHub/AlienProject - Copia/mapa_escritorio/escritorio.tmx#Interiors_free_32x32": {
+            "scaleInDock": 0.5
+        },
+        "C:/Users/Inteli/Documents/GitHub/AlienProject - Copia/mapa_escritorio/escritorio.tmx#Modern_Office_32x32": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Inteli/Documents/GitHub/AlienProject - Copia/mapa_escritorio/escritorio.tmx#Room_Builder_free_32x32": {
+            "scaleInDock": 0.25
+        },
+        "C:/Users/Inteli/Documents/GitHub/AlienProject - Copia/mapa_escritorio/escritorio.tmx#tudo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/JOSÉ.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/map.tmx": {
+            "scale": 1.1993749999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 318.9161021365295,
+                "y": 319.7498697238146
+            }
+        },
+        "C:/Users/Inteli/Documents/map.tmx#map": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/mapaTop.tsx": {
+            "scaleInDock": 0.75
+        },
+        "C:/Users/Inteli/Documents/mapaTop2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/officeTop.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/personagem4.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Documents/personagens.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Inteli/Documents/testando_exportação/sem título..tmx": {
+            "scale": 1.1175223214285714,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 446.97093778088487,
+                "y": 287.690002996105
+            }
+        },
+        "C:/Users/Inteli/Documents/top10.tmx": {
+            "scale": 1.1993749999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 398.9577905158938,
+                "y": 319.7498697238146
+            }
+        },
+        "C:/Users/Inteli/Documents/top10.tmx#mapaTop3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Joog/assets/EscritorioMeta/pasta_escritorio/escritorio_update.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 473.99999999999994,
+                "y": 475.33333333333326
+            }
+        },
+        "C:/Users/Inteli/Joog/assets/EscritorioMeta/pasta_escritorio/escritorio_update.tmx#Interiors_free_32x32": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Inteli/Joog/assets/EscritorioMeta/pasta_escritorio/escritorio_update.tmx#Modern_Office_32x32": {
+            "scaleInDock": 0.33
+        },
+        "C:/Users/Inteli/Joog/assets/EscritorioMeta/pasta_escritorio/escritorio_update.tmx#Room_Builder_free_32x32": {
+            "scaleInDock": 1
+        },
+        "sem título.tmx": {
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 483.5,
+                "y": 287
+            }
+        },
+        "tribunal.tmx": {
+            "scale": 1.1175223214285714,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 446.97093778088487,
+                "y": 287.690002996105
+            }
+        },
+        "tudo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.75
+        },
+        "tudo2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.7725
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Inteli/Joog/assets/EscritorioMeta/pasta_escritorio",
+    "last.imagePath": "C:/Users/Inteli/Documents/GitHub/AlienProject - Copia/mapa_escritorio",
+    "map.lastUsedExportFilter": "Ficheiros de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "C:/Users/Inteli/Joog/assets/EscritorioMeta/pasta_escritorio/escritorio_update.tmx"
+    ],
+    "project": "",
+    "property.type": "bool",
+    "recentFiles": [
+        "C:/Users/Inteli/Joog/assets/EscritorioMeta/pasta_escritorio/escritorio_update.tmx",
+        "C:/Users/Inteli/Documents/GitHub/AlienProject - Copia/assets/pasta_mapas/mapaPrincipal.tmx",
+        "C:/Users/Inteli/Documents/GameMeta/RuaReal.tmx",
+        "C:/Users/Inteli/Documents/GameMeta/Escritório/escritorio_meta.tmx",
+        "C:/Users/Inteli/Documents/GitHub/AlienProject - Copia/mapa_escritorio/escritorio.tmx",
+        "tribunal.tmx",
+        "tudo2.tsx",
+        "C:/Users/Inteli/Documents/testando_exportação/sem título..tmx",
+        "tudo.tsx",
+        "sem título.tmx",
+        "C:/Users/Inteli/Documents/GameMeta/Treinamento/tudo.tsx",
+        "C:/Users/Inteli/Documents/GameMeta/mapa_treinamento.tmx"
+    ]
+}
